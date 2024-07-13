@@ -39,5 +39,6 @@ To get the Discord Betting Game Bot up and running, follow these steps:
     ```bash
     python bot.py
     ```
+A Docker image is also available via [Docker Hub](https://hub.docker.com/r/pekno/pourcombienbot).
 
 You should now have the Discord Betting Game Bot running in your server! Enjoy betting with your friends!
