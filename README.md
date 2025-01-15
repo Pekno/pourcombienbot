@@ -1,5 +1,11 @@
 # Discord Betting Game Bot
 
+<div align="center">
+  
+[![Docker pulls](https://img.shields.io/docker/pulls/pekno/pourcombienbot)](https://hub.docker.com/r/pekno/pourcombienbot)
+  
+</div>
+
 ## Description
 
 Welcome to the Discord Betting Game Bot! This bot allows you and your friends to engage in a fun and interactive betting game right within your Discord server. Challenge your friends and see who comes out on top!
