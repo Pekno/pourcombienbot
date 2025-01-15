@@ -1,4 +1,4 @@
-# Discord Betting Game Bot
+# ![Logo](logo.png) Discord Betting Game Bot
 
 <div align="center">
   
