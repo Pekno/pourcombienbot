@@ -2,6 +2,8 @@
 
 <div align="center">
   
+
+![GitHub Tag](https://img.shields.io/github/v/tag/pekno/pourcombienbot?label=latest%20version)
 [![Docker pulls](https://img.shields.io/docker/pulls/pekno/pourcombienbot)](https://hub.docker.com/r/pekno/pourcombienbot)
   
 </div>
